@@ -1,2 +1,2 @@
 # Adminretrofe
-System d'administration pour retrofe et fork
+Système d'administration pour retrofe.nl et fork
