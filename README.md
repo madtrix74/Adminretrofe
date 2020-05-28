@@ -1,2 +1,1 @@
-# Adminretrofe
-Système d'administration pour retrofe.nl et fork
+#  Theme pour retrofe et fork
